@@ -4,6 +4,11 @@
 "version": "0.1.1",
 "description": "Censors words out of text",
 "main": "censortest",
+"repository": {
+	"type": "git",
+	"url": "https://github.com/vishalkankatala/censorify.git"
+}
+"keywords": ["censor","words"],
 "dependencies": {},
 "engines": {"node": "*"}
 }
