@@ -1,12 +1,12 @@
 {
 "author": "Vishal Kankatala",
-"name": "censorify_vishal",
+"name": "censorify-vishal",
 "version": "0.1.1",
 "description": "Censors words out of text",
-"main": "censortest",
+"main": "censortext",
 "repository": {
 	"type": "git",
-	"url": "https://github.com/vishalkankatala/censorify.git"
+	"url": "https://github.com/vishalkankatala/censorify-vishal.git"
 },
 "keywords": ["censor","words"],
 "dependencies": {},
