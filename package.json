@@ -7,7 +7,7 @@
 "repository": {
 	"type": "git",
 	"url": "https://github.com/vishalkankatala/censorify.git"
-}
+},
 "keywords": ["censor","words"],
 "dependencies": {},
 "engines": {"node": "*"}
