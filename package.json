@@ -1,6 +1,6 @@
 {
-"author": "Brad Dayley",
-"name": "censorify",
+"author": "Vishal Kankatala",
+"name": "censorify_vishal",
 "version": "0.1.1",
 "description": "Censors words out of text",
 "main": "censortest",
